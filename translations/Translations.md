@@ -1,0 +1,6 @@
+# Translations
+
+|                                                                                                                                                                                                                                                                             | Translated Link                                                       |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| <img alt="Af-Soomaali" title="Somaliya" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/so.svg" width="22">                                                                                                                                                 | [Af-Soomaali](../README.md)                                               |
+| <img title="English" alt="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" width="22"> |[English](README.en.md)
