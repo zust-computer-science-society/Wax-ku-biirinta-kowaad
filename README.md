@@ -44,7 +44,7 @@ Halka `magaca-isticmalaha` uu yahay magacaaga aad ku isticmasho Github.Halkan wa
 Haddii aadan weli ku jirin galka (folder), u gudub halka uu kaaga yaalo galka kombiyuutarkaaga:
 
 ```
-cd first-contributions
+cd Wax-ku-biirinta-kowaad
 ```
 
 Abuur laan cusub adigoo isticmaalaya amarka `git checkout`:
